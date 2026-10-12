@@ -1,2 +1,2 @@
-# MatteGlass4Jibo
-liquid glass-like theme for jibo
+# HandDrawnJibo
+Actual hand-drawn theme for jibo.

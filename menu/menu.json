@@ -1,0 +1,10 @@
+{
+    "buttonSize": 75,
+    "iconSize": 85,
+    "iconPlacement": "x0 y10",
+    "textSize": 10,
+    "textPlacement": "x0 y-28",
+    "menuType": "dynamic",
+    "backgroundColor": "#000000",
+    "buttonColors": false
+}
